@@ -33,3 +33,9 @@ Refs: <http://e-words.jp/w/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%91%E3%83%83%E3%83%8
 割り当てる
 
 allocate
+
+## 6
+
+最小構成
+
+minimum configuration
