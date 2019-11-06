@@ -39,3 +39,9 @@ allocate
 最小構成
 
 minimum configuration
+
+## 7
+
+相互に作用する
+
+interact
