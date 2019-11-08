@@ -45,3 +45,15 @@ minimum configuration
 相互に作用する
 
 interact
+
+## 8
+
+に相当する
+
+equivalent to
+
+## 9
+
+その場しのぎに(特別に、臨機応変にFindByLastIDAndLimitAndStatus)
+
+on an ad hoc basis
