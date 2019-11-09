@@ -64,3 +64,8 @@ GETはすでに推測されています
 
 GET is already inferred
 
+## 0011
+
+多彩な
+
+versatile
