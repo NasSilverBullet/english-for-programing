@@ -54,7 +54,7 @@ equivalent to
 
 ## 0009
 
-その場しのぎに(特別に、臨機応変にFindByLastIDAndLimitAndStatus)
+その場しのぎに(特別に、臨機応変に)
 
 on an ad hoc basis
 
@@ -69,3 +69,9 @@ GET is already inferred
 多彩な
 
 versatile
+
+## 0012
+
+テンソル(ではなくテンサーと読むらしい)
+
+tensor
