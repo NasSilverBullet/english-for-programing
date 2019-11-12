@@ -75,3 +75,9 @@ versatile
 テンソル(ではなくテンサーと読むらしい)
 
 tensor
+
+## 0013
+
+慣用的な
+
+idiomatic
