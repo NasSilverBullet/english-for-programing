@@ -81,3 +81,9 @@ tensor
 慣用的な
 
 idiomatic
+
+## 0014
+
+期限切れ
+
+expired
